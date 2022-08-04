@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="60dp" >
+
+    <Button
+        android:id="@+id/one_officeRoom"
+        android:text="1 교무실"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009933"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/two_officeRoom"
+        android:text="2 교무실"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009933"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/three_officeRoom"
+        android:text="3 교무실"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009933"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/four_officeRoom"
+        android:text="4 교무실"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009933"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/five_officeRoom"
+        android:text="5 교무실"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009933"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+
+
+</LinearLayout>

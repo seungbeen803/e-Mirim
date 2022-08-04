@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/officeRoom"
+        android:title="교무실" />
+
+    <item
+        android:id="@+id/My_PC_Protector"
+        android:title="내 PC 지킴이"/>
+
+    <item
+        android:id="@+id/statutes"
+        android:title="교칙"/>
+
+    <item
+        android:id="@+id/service"
+        android:title="봉사"/>
+
+    <item
+        android:id="@+id/contest"
+        android:title="공모전"/>
+
+</menu>
