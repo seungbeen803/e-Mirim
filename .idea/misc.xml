@@ -4,11 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/drawable/resource.xml" value="0.196" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/drawable/resource2.xml" value="0.1945" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/drawable/resourse.xml" value="0.1385" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_main.xml" value="0.3217821782178218" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_office_room.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/c.xml" value="0.1778115501519757" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/ff.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/item_recycler.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/mirim_mypcprotector_fragment.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/mirim_officeroom_fragment.xml" value="0.18009118541033434" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/nav_header.xml" value="0.17806484295845998" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/resourse.xml" value="0.18009118541033434" />

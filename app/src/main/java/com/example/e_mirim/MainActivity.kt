@@ -14,10 +14,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-//        supportActionBar?.setHomeButtonEnabled(true)
-//        supportActionBar?.setIcon(android.R.drawable.ic_delete)
-//        supportActionBar?.setDisplayUseLogoEnabled(true);
-//        supportActionBar?.setLogo(android.R.drawable.ic_delete)
 
         val drawerLayout = findViewById<DrawerLayout>(R.id.drawer_layout)
         val navView = findViewById<NavigationView>(R.id.drawer_nav_view)
