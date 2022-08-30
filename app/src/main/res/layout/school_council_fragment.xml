@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:layout_marginTop="60dp" >
+
+    <Button
+        android:id="@+id/student_council"
+        android:text="학생회"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:background="@drawable/resource"
+        app:backgroundTint= "#009966"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/schedule"
+        android:text="학사일정"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009966"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

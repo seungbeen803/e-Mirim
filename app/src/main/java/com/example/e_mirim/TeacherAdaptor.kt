@@ -4,6 +4,7 @@ import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
@@ -22,7 +23,7 @@ class TeacherAdaptor(val teacherlist: List<TeacherInfo>)
 
     override fun onBindViewHolder(holder: ImageViewHolder, position: Int) {
         val teacher = teacherlist[position]
-        holder.view.findViewById<TextView>(R.id.teacher_name).text = "${teacher.name}"
+        holder.view.findViewById<Button>(R.id.teacher_name).text = "${teacher.name}"
         holder.view.findViewById<ImageView>(R.id.teacher_picture).setImageResource(teacher.image!!)
     }
 

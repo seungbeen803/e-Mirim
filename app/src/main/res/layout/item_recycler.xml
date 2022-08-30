@@ -4,6 +4,8 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="20dp"
     android:gravity="center">
 
     <ImageView
@@ -12,11 +14,13 @@
         android:layout_width="150dp"
         android:layout_height="150dp" />
 
-    <TextView
+    <Button
         android:id="@+id/teacher_name"
         android:background="@drawable/resource"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_weight="0"
+        android:layout_width="140dp"
+        android:layout_height="36dp"
         android:textAlignment="center"/>
 
 </LinearLayout>

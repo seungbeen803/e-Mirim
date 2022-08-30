@@ -38,10 +38,10 @@ class MainActivity : AppCompatActivity() {
                         .replace(R.id.frame, MirimStatutesFragment())
                         .commit()
                 }
-                R.id.service -> {
+                R.id.student_Council -> {
                     supportFragmentManager
                         .beginTransaction()
-                        .replace(R.id.frame, MirimServiceFragment())
+                        .replace(R.id.frame, MirimSchoolInfoFragment())
                         .commit()
                 }
                 R.id.contest -> {
