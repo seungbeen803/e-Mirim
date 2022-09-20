@@ -14,5 +14,6 @@ class ScheduleActivity : AppCompatActivity() {
         setContentView(R.layout.activity_schedule)
 
         Toast.makeText(this, "학사일정", Toast.LENGTH_SHORT).show()
+
     }
 }
