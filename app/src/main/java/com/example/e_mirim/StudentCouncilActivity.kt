@@ -19,13 +19,13 @@ class StudentCouncilActivity : AppCompatActivity() {
             StudentInfo(R.drawable.img, "김유진", "학생 회장"),
             StudentInfo(R.drawable.img, "박민지", "학생 부회장"),
             StudentInfo(R.drawable.img, "하도연", "총무부"),
-            StudentInfo(R.drawable.img, "곽경희", ),
-            StudentInfo(R.drawable.img, "박선주", ),
-            StudentInfo(R.drawable.img, "최윤영", ),
-            StudentInfo(R.drawable.img, "양다연", ),
-            StudentInfo(R.drawable.img, "임채영", ),
-            StudentInfo(R.drawable.img, "김소리", ),
-            StudentInfo(R.drawable.img, "정유진"  )
+            StudentInfo(R.drawable.img, "곽경희", "학예부"),
+            StudentInfo(R.drawable.img, "양다연", "체육부"),
+            StudentInfo(R.drawable.img, "김소리", "생활교양부"),
+            StudentInfo(R.drawable.img, "정유진", "환경봉사부"),
+            StudentInfo(R.drawable.img, "최윤영", "훈련안전부"),
+            StudentInfo(R.drawable.img, "박선주", "서기"),
+            StudentInfo(R.drawable.img, "임채영", "회계부")
         )
 
 
