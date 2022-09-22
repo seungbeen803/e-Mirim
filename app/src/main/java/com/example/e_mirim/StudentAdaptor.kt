@@ -32,6 +32,6 @@ class StudentAdaptor(val studentlist: List<StudentInfo>)
     }
 
     override fun getItemViewType(position: Int): Int {
-        return R.layout.item2_recycler
+        return R.layout.student_council_recycler
     }
 }

@@ -1,12 +1,10 @@
 package com.example.e_mirim
 
-import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageView
-import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
 class TeacherAdaptor(val teacherlist: List<TeacherInfo>)
@@ -36,6 +34,6 @@ class TeacherAdaptor(val teacherlist: List<TeacherInfo>)
     override fun getItemViewType(position: Int): Int {
         // 유일하게 구분하게 할 수 있는 숫자 리턴
         // 레이아웃 리소스 식별자를 숫자로 반환
-        return R.layout.item_recycler
+        return R.layout.teacher_recycler
     }
 }
