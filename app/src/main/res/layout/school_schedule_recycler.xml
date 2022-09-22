@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ListView
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content">
 
     <TextView
-        android:id="@+id/schedule_list"
-        android:text="일정"
+        android:id="@+id/schedule_desc"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:paddingTop="18dp"
+        android:paddingLeft="75dp"
+        android:textSize="18sp"/>
 
-</ListView>
+</LinearLayout>

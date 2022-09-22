@@ -1,4 +1,7 @@
 package com.example.e_mirim
 
-class ScheduleInfo {
+data class ScheduleInfo(
+    val job: String
+) {
+
 }

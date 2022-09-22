@@ -20,7 +20,7 @@ class ScheduleAdaptor(val schedulelist: List<ScheduleInfo>)
 
     override fun onBindViewHolder(holder: ScheduleViewHolder, position: Int) {
         val schedule = schedulelist[position]
-        holder.view.findViewById<TextView>(R.id.schedule_list).text = ""
+        holder.view.findViewById<TextView>(R.id.schedule_desc).text = schedule.job
     }
 
     override fun getItemCount(): Int {

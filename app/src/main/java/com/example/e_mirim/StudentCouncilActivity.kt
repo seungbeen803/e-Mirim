@@ -37,7 +37,5 @@ class StudentCouncilActivity : AppCompatActivity() {
         listView.layoutManager = GridLayoutManager(this@StudentCouncilActivity, 2)
 
         listView.adapter = adaptor
-
-        listView.setHasFixedSize(true)
     }
 }
