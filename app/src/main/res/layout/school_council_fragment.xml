@@ -21,6 +21,19 @@
         android:layout_gravity="center"/>
 
     <Button
+        android:id="@+id/Instagram"
+        android:text="학생회인스타"
+        android:layout_weight="0"
+        android:layout_width="300dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/resource"
+        app:backgroundTint="#009966"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <Button
         android:id="@+id/schedule"
         android:text="학사일정"
         android:layout_weight="0"
