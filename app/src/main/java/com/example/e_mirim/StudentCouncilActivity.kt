@@ -16,12 +16,12 @@ class StudentCouncilActivity : AppCompatActivity() {
         Toast.makeText(this, "학생회", Toast.LENGTH_SHORT).show()
 
         val dataList = listOf(
-            StudentInfo(R.drawable.img, "김유진", "학생 회장"),
-            StudentInfo(R.drawable.img, "박민지", "학생 부회장"),
+            StudentInfo(R.drawable.student, "김유진", "학생 회장"),
+            StudentInfo(R.drawable.student_2, "박민지", "학생 부회장"),
             StudentInfo(R.drawable.img, "하도연", "총무부"),
             StudentInfo(R.drawable.img, "곽경희", "학예부"),
-            StudentInfo(R.drawable.img, "양다연", "체육부"),
-            StudentInfo(R.drawable.img, "김소리", "생활교양부"),
+            StudentInfo(R.drawable.student_5, "양다연", "체육부"),
+            StudentInfo(R.drawable.student_6, "김소리", "생활교양부"),
             StudentInfo(R.drawable.img, "정유진", "환경봉사부"),
             StudentInfo(R.drawable.img, "최윤영", "훈련안전부"),
             StudentInfo(R.drawable.img, "박선주", "서기"),

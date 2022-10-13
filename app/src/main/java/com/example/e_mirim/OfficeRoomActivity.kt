@@ -26,7 +26,7 @@ class OfficeRoomActivity : AppCompatActivity() {
             TeacherInfo(R.drawable.img, "권지웅"),
             TeacherInfo(R.drawable.img, "김영철"),
             TeacherInfo(R.drawable.img, "신혜영"),
-            TeacherInfo(R.drawable.img, "이철호"),
+            TeacherInfo(R.drawable.img_1_9, "이철호"),
             TeacherInfo(R.drawable.img, "임정훈"),
             TeacherInfo(R.drawable.img, "이철희"),
             TeacherInfo(R.drawable.img_1_11, "정혜선"),
@@ -42,7 +42,7 @@ class OfficeRoomActivity : AppCompatActivity() {
             TeacherInfo(R.drawable.img_3_7, "이정임"),
             TeacherInfo(R.drawable.img_2_5, "최규정"),
             TeacherInfo(R.drawable.img_2_6, "김보경"),
-            TeacherInfo(R.drawable.img_3_2, "고낙은"),
+            TeacherInfo(R.drawable.img_2_7, "고낙은"),
             TeacherInfo(R.drawable.img_3_7, "김민혜"),
             TeacherInfo(R.drawable.img_2_9, "박지우")
             ))
