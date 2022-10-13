@@ -2,6 +2,7 @@ package com.example.e_mirim
 
 import androidx.recyclerview.widget.RecyclerView
 
+/*
 class RuleAdaptor (
     val schoolRuleList: List<SchoolRuleTitleInfo>
 ) : RecyclerView.Adapter<RuleAdaptor.MyViewHolder>() {
@@ -15,4 +16,4 @@ class RuleAdaptor (
         }
     }
 
-}
+}*/

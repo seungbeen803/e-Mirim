@@ -11,6 +11,7 @@ class SchoolRuleActivity : AppCompatActivity() {
 
         Toast.makeText(this, "교칙", Toast.LENGTH_SHORT).show()
 
+        /*
         val schoolRuleList = ArrayList<SchoolRuleInfo>()
 
         fun schoolRuleData() {
@@ -24,7 +25,7 @@ class SchoolRuleActivity : AppCompatActivity() {
 
             schoolRuleList.add(SchoolRuleTitleInfo(costume_rule, firstContent))
             schoolRuleList.add(SchoolRuleTitleInfo(life_rule, secondContent))
-
         }
+        */
     }
 }

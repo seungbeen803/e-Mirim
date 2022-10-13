@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.statutes -> {
                     supportFragmentManager
                         .beginTransaction()
-                        .replace(R.id.frame, MirimStatutesFragment())
+                        .replace(R.id.frame, MirimRulesFragment())
                         .commit()
                 }
                 R.id.student_Council -> {

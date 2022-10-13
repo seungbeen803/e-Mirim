@@ -9,7 +9,9 @@
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_main.xml" value="0.3217821782178218" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_office_room.xml" value="0.18432971014492755" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_schedule.xml" value="0.20153985507246377" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/activity_school_rule.xml" value="0.18854166666666666" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/c.xml" value="0.1778115501519757" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/divider_info.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/ff.xml" value="0.1778115501519757" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/item2_recycler.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/item_recycler.xml" value="0.18802083333333333" />
@@ -18,10 +20,12 @@
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/mirim_school_info_fragment.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/nav_header.xml" value="0.17806484295845998" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/resourse.xml" value="0.18009118541033434" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/rule_info.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_council_activity.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_council_fragment.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_info_activity.xml" value="0.20153985507246377" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_rule_activity.xml" value="0.1875" />
+        <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_rules_fragment.xml" value="0.23072916666666668" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_schedule_recycler.xml" value="0.1331521739130435" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/school_school_rule_recycler.xml" value="0.21920289855072464" />
         <entry key="..\:/Users/Mirim/AndroidStudioProjects/eMirim/app/src/main/res/layout/student_council_recycler.xml" value="0.1875" />
