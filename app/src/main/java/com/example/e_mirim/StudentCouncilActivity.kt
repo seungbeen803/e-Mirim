@@ -1,5 +1,7 @@
 package com.example.e_mirim
 
+import android.content.Intent
+import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -37,5 +39,6 @@ class StudentCouncilActivity : AppCompatActivity() {
         listView.layoutManager = GridLayoutManager(this@StudentCouncilActivity, 2)
 
         listView.adapter = adaptor
+
     }
 }
