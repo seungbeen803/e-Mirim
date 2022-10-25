@@ -16,9 +16,6 @@
             android:name=".SchoolRuleActivity"
             android:exported="false" />
         <activity
-            android:name=".School_Rule_Activity"
-            android:exported="false" />
-        <activity
             android:name=".ScheduleActivity"
             android:exported="false" />
         <activity
