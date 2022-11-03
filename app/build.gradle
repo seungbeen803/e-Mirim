@@ -32,12 +32,14 @@ android {
 }
 
 dependencies {
-    // implementation 'com.github.prolificinteractive:material-calendarview:2.0.1'
+    implementation platform('com.google.firebase:firebase-bom:30.3.2')
+
+    implementation 'com.google.firebase:firebase-auth-ktx' // 인증
+    implementation 'com.google.firebase:firebase-firestore-ktx' // 파이어스토어(데이터베이스)
+    implementation 'com.google.firebase:firebase-storage-ktx' // 스토리지
 
     implementation 'androidx.core:core-ktx:1.7.0'
-    implementation 'androidx.appcompat:appcompat:1.4.2'
-
-
+    implementation 'androidx.appcompat:appcompat:1.5.0'
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'
