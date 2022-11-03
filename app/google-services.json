@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728639764626",
+    "project_id": "e-mirim",
+    "storage_bucket": "e-mirim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728639764626:android:52e48d1a7159e6453f4e4b",
+        "android_client_info": {
+          "package_name": "e_mirim.firebases"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728639764626-kmq4udej726s42of39p1obqe0kmq9s3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e_mirim.firebases",
+            "certificate_hash": "17d6d85a41e4d1d948f9cda995e44d57da8e47ad"
+          }
+        },
+        {
+          "client_id": "728639764626-5h82v09kber1u8ekg7jorkra2ltvksrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmiNzpKkDG5Xkl-zg88yw3PvpLJ0vpZCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728639764626-5h82v09kber1u8ekg7jorkra2ltvksrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
