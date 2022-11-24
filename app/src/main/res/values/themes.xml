@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.EMirim" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#008156</item>
-        <item name="colorPrimaryVariant">#008156</item>
+        <item name="colorPrimary">#FF6D56</item>
+        <item name="colorPrimaryVariant">#FF6D56</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>

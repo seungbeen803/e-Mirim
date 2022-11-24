@@ -8,7 +8,7 @@
 
     <item
         android:id="@+id/My_PC_Protector"
-        android:title="내 PC 지킴이"/>
+        android:title="내 PC지키미"/>
 
     <item
         android:id="@+id/statutes"

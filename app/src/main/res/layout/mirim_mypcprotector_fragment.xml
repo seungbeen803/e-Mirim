@@ -11,24 +11,24 @@
         android:text="내PC지키미 사용법"
         android:layout_width="300dp"
         android:layout_height="60dp"
-        android:background="@drawable/resource2"
+        android:background="@drawable/resource"
         android:layout_marginTop="50dp"
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_gravity="center"
-        app:backgroundTint="#669933"/>
+        app:backgroundTint="#FF816A"/>
 
     <Button
         android:id="@+id/community_service"
         android:text="내PC지키미 커뮤니티"
         android:layout_width="300dp"
-        android:layout_height="80dp"
+        android:layout_height="60dp"
         android:layout_marginTop="60dp"
-        android:background="@drawable/resource2"
+        android:background="@drawable/resource"
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_gravity="center"
-        app:backgroundTint="#669933"/>
+        app:backgroundTint="#FF816A"/>
 
 
 
