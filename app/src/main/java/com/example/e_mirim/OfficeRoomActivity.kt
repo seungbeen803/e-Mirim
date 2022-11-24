@@ -27,7 +27,7 @@ class OfficeRoomActivity : AppCompatActivity() {
             TeacherInfo(R.drawable.img1_7, "김영철"),
             TeacherInfo(R.drawable.img3_6, "신혜영"),
             TeacherInfo(R.drawable.img1_9, "이철호"),
-            TeacherInfo(R.drawable.img3_6, "임정훈"),
+            TeacherInfo(R.drawable.img1_10, "임정훈"),
             TeacherInfo(R.drawable.img1_11, "이철희"),
             TeacherInfo(R.drawable.img1_12, "정혜선"),
             TeacherInfo(R.drawable.img3_6, "김지훈"),
@@ -38,9 +38,9 @@ class OfficeRoomActivity : AppCompatActivity() {
         map.put(2, listOf(
             TeacherInfo(R.drawable.img3_6, "박향규"),
             TeacherInfo(R.drawable.img3_6, "김명준"),
-            TeacherInfo(R.drawable.img3_6, "이은주"),
-            TeacherInfo(R.drawable.img3_6, "이정임"),
-            TeacherInfo(R.drawable.img3_6, "최규정"),
+            TeacherInfo(R.drawable.img2_3, "이은주"),
+            TeacherInfo(R.drawable.img2_4, "이정임"),
+            TeacherInfo(R.drawable.img2_5, "최규정"),
             TeacherInfo(R.drawable.img2_6, "김보경"),
             TeacherInfo(R.drawable.img2_7, "고낙은"),
             TeacherInfo(R.drawable.img3_6, "김민혜"),
@@ -49,12 +49,12 @@ class OfficeRoomActivity : AppCompatActivity() {
 
         map.put(3, listOf(
             TeacherInfo(R.drawable.img3_6, "백현정"),
-            TeacherInfo(R.drawable.img3_6, "함기훈"),
-            TeacherInfo(R.drawable.img3_6, "이재민"),
+            TeacherInfo(R.drawable.img3_2, "함기훈"),
+            TeacherInfo(R.drawable.img3_3, "이재민"),
             TeacherInfo(R.drawable.img3_6, "이호걸"),
             TeacherInfo(R.drawable.img3_6, "박성래"),
             TeacherInfo(R.drawable.img3_6, "유병석"),
-            TeacherInfo(R.drawable.img3_6, "이형섭"),
+            TeacherInfo(R.drawable.img3_7, "이형섭"),
             TeacherInfo(R.drawable.img3_6, "장민주")
 
         ))
